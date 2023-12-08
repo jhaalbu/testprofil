@@ -84,7 +84,7 @@ draw_options={
 draw.add_to(m)
 
 output = st_folium(m, width=900, height=700)
-st.write(output)
+#st.write(output)
 
 try:
     koordiater = output["all_drawings"][0]["geometry"]["coordinates"]
