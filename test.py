@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from shapely.geometry import LineString
 from pyproj import Transformer
 
-st.title('Profilapp')
+st.title('Kult superapp')
 
 def transformer(coords):
     '''Transformerer koordinater fra WGS84 til UTM 33N'''
