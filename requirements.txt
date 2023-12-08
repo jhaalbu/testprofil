@@ -1,0 +1,9 @@
+streamlit
+folium
+treamlit_folium
+requests
+pandas
+matplotlib
+plotly
+shapely
+pyproj
