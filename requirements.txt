@@ -1,6 +1,6 @@
 streamlit
 folium
-treamlit_folium
+streamlit_folium
 requests
 pandas
 matplotlib
